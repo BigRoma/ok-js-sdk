@@ -1,0 +1,27 @@
+{
+  "name": "ok-js-sdk",
+  "version": "1.0.1",
+  "description": "OK JS SDK for frontend developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigRoma/ok-js-sdk.git"
+  },
+  "keywords": [
+    "ok",
+    "odnoklassniki",
+    "sdk",
+    "api",
+    "open-auth",
+    "OAUTH"
+  ],
+  "author": "Tishakov Roman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BigRoma/ok-js-sdk/issues"
+  },
+  "homepage": "https://github.com/BigRoma/ok-js-sdk#readme"
+}
