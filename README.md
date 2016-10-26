@@ -2,7 +2,13 @@
 
 ## Usage
 
+`npm i ok-js-sdk --save`
+
 Download and pack your app with **oksdk.js**, try one of the provided samples.
+
+Example connecting: 
+
+`const OKSDK = require('ok-js-sdk')`
 
 ## Samples
 
